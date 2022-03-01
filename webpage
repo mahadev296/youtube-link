@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+0000000000<!DOCTYPE html>
 <html>
 
 <head></head>
@@ -7,10 +7,11 @@
     <div class="card">
         <h1 class="main-heading">Youtube</h1>
         <p class="paragraph">link</p>
-        <button>https://youtu.be/21X5lGlDOfg</button>
-        <form action="nextpage.php" method="POST">
-      <input type="submit"/>
-    </form>
+       <button>https://youtu.be/21X5lGlDOfg</buton>
+       <meta http-equiv="refresh" content="5;
+       URL='http://www.youtube.com'"/>
+        
+        </head>
     </div>
 </body>
 
