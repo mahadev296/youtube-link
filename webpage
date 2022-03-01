@@ -7,10 +7,9 @@
     <div class="card">
         <h1 class="main-heading">Youtube</h1>
         <p class="paragraph">link</p>
-       <button type="submit">youtube</button>
        <meta http-equiv="refresh" content="3;
        URL='https://youtu.be/hRSj2n-XKGM'" />
-        
+      <h3><a href="second.html">Go to second page</a>  
         </head>
     <body>
 </body>
