@@ -1,4 +1,4 @@
-0000000000<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head></head>
@@ -8,11 +8,11 @@
         <h1 class="main-heading">Youtube</h1>
         <p class="paragraph">link</p>
        <button>youtube</button>
-       <meta http-equiv="refresh" content="1;
-       URL='https://youtu.be/hRSj2n-XKGM'"/>
+       <meta http-equiv="refresh" content="3;
+       URL='https://youtu.be/hRSj2n-XKGM'" />
         
         </head>
-    </div>
+    <body>
 </body>
 
 </html>
