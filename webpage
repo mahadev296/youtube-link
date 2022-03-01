@@ -7,11 +7,11 @@
     <div class="card">
         <h1 class="main-heading">Youtube</h1>
         <p class="paragraph">link</p>
-         <h3><a href="second.html">Go to second page</a> 
+         <h3><a href="'https://youtu.be/hRSj2n-XKGM'">Go to second page</a> 
        <meta http-equiv="refresh" content="3;
-       URL='https://youtu.be/hRSj2n-XKGM'" />
+       
       
-        </head>
+      </head>
     <body>
 </body>
 
